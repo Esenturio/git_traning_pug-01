@@ -1,0 +1,51 @@
+.recent{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+.recent__titel{
+    color: #282828;
+    font-size: 36px;
+}
+.recent--titel{
+    color: #00cff1;
+    font-size: 36px;
+}
+.recent__tex{
+    color: #575757;
+    font-size: 15px;
+}
+.news__post{
+    display: grid;
+    grid-template-columns: 1fr 1fr fr1 ;
+    gap: 30px;
+}
+.post__img{
+    padding-bottom: 40px;
+}
+.post__titel{
+    color: #474747;
+    font-size: 24px;
+}
+.post--titel{
+    color: #00cff1;
+}
+.post__subtitel{
+    color: #474747;
+    font-size: 14px;
+}
+.post--subtitel{
+    color: #474747;
+    font-size: 14px;
+}
+.post__tex{
+    color: #454545;
+    font-size: 15px; 
+}
+.red__more{
+    color: #474747;
+    font-size: 16px;
+}
+.red--more{
+    color: #00cff1;
+}
