@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 29" width="27" height="29">
+	<title>Header</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #fafafa } 
+	</style>
+	<g id="Header">
+		<g id="Text &amp; Button">
+			<g id="Buttons">
+				<g id="Play store Button">
+					<path id="Play store" class="shp0" d="M27 14.5C27 15.55 26.44 16.48 25.51 16.99L4.48 28.54C3.59 29.11 2.46 29.15 1.53 28.66C0.59 28.17 0 27.2 0 26.15L0 2.85C0 1.8 0.59 0.83 1.53 0.34C2.47 -0.15 3.59 -0.11 4.48 0.46L25.51 12.01C26.44 12.52 27 13.45 27 14.5ZM18.44 10.31L15.54 13.16L5.26 3.06L18.44 10.31ZM1.94 26.47L1.94 2.53L14.17 14.5L1.94 26.47ZM5.26 25.94L15.54 15.84L18.44 18.69L5.26 25.94ZM24.57 15.33L20.2 17.73L16.91 14.5L20.2 11.27L24.57 13.67C25.02 13.92 25.06 14.33 25.06 14.5C25.06 14.67 25.02 15.08 24.57 15.33Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
